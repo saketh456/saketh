@@ -1,1 +1,2 @@
 hello iam cr from remote
+hi iam tony from local git
